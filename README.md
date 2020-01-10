@@ -1,1 +1,1 @@
-# kiss-repo
+# My repo for kiss linux
