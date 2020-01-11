@@ -1,0 +1,4 @@
+#!/bin/sh -e
+
+./make.sh
+mv *.otb /usr/share/fonts/cherry-font
