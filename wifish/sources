@@ -1,1 +1,8 @@
 https://github.com/bougyman/wifish/archive/1.1.4.tar.gz
+files/awk/iwparse.awk
+files/awk/wlistparse.awk
+files/awk/wscan2menu.awk
+files/awk/wscanparse.awk
+files/wpa_supplicant/conf
+files/wpa_supplicant/log/run
+files/wpa_supplicant/run
