@@ -1,0 +1,6 @@
+#!/bin/sh -e
+
+cp xbacklight /usr/bin/
+cp xbacklight.1 /usr/share/man/man1/
+cp 90-backlight.rules /etc/udev/rules.d/
+udevadm trigger -s backlight -c add
